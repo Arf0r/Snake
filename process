@@ -1,0 +1,6 @@
+# Process
+
+## day 4
+I finally managed to install the libGDX framework on android studio. The framework seems to work as following: 
+each class implements a "screen" this screen always has at least 3 functions: create, render, dispose. I've found 
+a general tutorial on how to use libGDX and am currently working through that, getting used to the framework
